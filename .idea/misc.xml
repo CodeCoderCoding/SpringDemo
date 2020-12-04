@@ -4,8 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot-restful/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-springsecurity/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Boot-Start/pom.xml" />
+        <option value="$PROJECT_DIR$/01.Spring-Boot-Start/pom.xml" />
+        <option value="$PROJECT_DIR$/02.Spring-Boot-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/03.Spring-Boot-Restful/pom.xml" />
+        <option value="$PROJECT_DIR$/04.Spring-Boot-Log/pom.xml" />
+        <option value="$PROJECT_DIR$/05.Spring-Boot-Test/pom.xml" />
       </list>
     </option>
   </component>

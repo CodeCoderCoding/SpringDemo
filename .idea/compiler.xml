@@ -6,18 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-Boot-Start" />
+        <module name="start" />
+        <module name="05.Spring-Boot-Test" />
+        <module name="03.Spring-Boot-Restful" />
+        <module name="02.Spring-Boot-Config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="02.Spring-Boot-Config" target="1.8" />
+      <module name="03.Spring-Boot-Restful" target="1.8" />
+      <module name="05.Spring-Boot-Test" target="1.8" />
+      <module name="Log" target="1.8" />
       <module name="restful" target="1.8" />
       <module name="shiro" target="1.8" />
       <module name="Spring-Boot-Start" target="1.8" />
+      <module name="start" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="02.Spring-Boot-Config" options="-parameters" />
+      <module name="03.Spring-Boot-Restful" options="-parameters" />
+      <module name="05.Spring-Boot-Test" options="-parameters" />
       <module name="Spring-Boot-Start" options="-parameters" />
+      <module name="start" options="-parameters" />
     </option>
   </component>
 </project>

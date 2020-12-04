@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01.Spring-Boot-Start/Spring-Boot-Start.iml" filepath="$PROJECT_DIR$/01.Spring-Boot-Start/Spring-Boot-Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Spring-Boot-Config/02.Spring-Boot-Config.iml" filepath="$PROJECT_DIR$/02.Spring-Boot-Config/02.Spring-Boot-Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Spring-Boot-Restful/03.Spring-Boot-Restful.iml" filepath="$PROJECT_DIR$/03.Spring-Boot-Restful/03.Spring-Boot-Restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Spring-Boot-Test/05.Spring-Boot-Test.iml" filepath="$PROJECT_DIR$/05.Spring-Boot-Test/05.Spring-Boot-Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-restful/restful.iml" filepath="$PROJECT_DIR$/springboot-restful/restful.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-springsecurity/shiro.iml" filepath="$PROJECT_DIR$/springboot-springsecurity/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Spring-Boot-Log/restful.iml" filepath="$PROJECT_DIR$/04.Spring-Boot-Log/restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-start.iml" filepath="$PROJECT_DIR$/springboot-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.Spring-Boot-Start/start.iml" filepath="$PROJECT_DIR$/01.Spring-Boot-Start/start.iml" />
     </modules>
   </component>
 </project>
