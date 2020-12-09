@@ -18,7 +18,7 @@ Spring相关的各种示例
 
 ## SpringBoot数据相关
 - [ ] [SpringBoot使用mysql]
-- [ ] [SpringBoot使用Hibernate]
+- [ ] [SpringBoot使用JPA]
 - [ ] [SpringBoot使用Mybatis]
 - [ ] [SpringBoot多数据源]
 - [ ] [SpringBoot使用Redis]
