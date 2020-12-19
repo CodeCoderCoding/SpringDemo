@@ -34,9 +34,11 @@ Spring相关的各种示例
 - [ ] [Spring Security自定义用户认证]
 - [ ] [SpringBoot JWT]
 
-## D系列 SpringBoot消息相关
+## D系列 SpringBoot消息/数据通信相关
 - [ ] [SpringBoot整合Kafka]
 - [ ] [SpringBoot整合RabbitMQ]
+- [ ] [SpringBoot整合RocketMQ]
+- [ ] [SpringBoot整合ActiveMQ]
 - [ ] [SpringBoot整合websocket]
 - [ ] [SpringBoot SocketIO]
 
@@ -44,5 +46,6 @@ Spring相关的各种示例
 - [ ] [SpringCloud Eurka服务治理]
 - [ ] [SpringCloud Ribbon客户端负载均衡]
 - [ ] [SpringCloud Hystrix服务容错]
+- [ ] [SpringCloud Zuul网关服务]
 
 持续更新中...

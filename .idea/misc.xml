@@ -20,6 +20,10 @@
         <option value="$PROJECT_DIR$/A02.Spring-Boot-Config/pom.xml" />
         <option value="$PROJECT_DIR$/A01.Spring-Boot-Start/pom.xml" />
         <option value="$PROJECT_DIR$/C01.Spring-Cloud-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/C01.Spring-Boot-Shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/D01.Spring-Boot-Kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/D02.Spring-Boot-RabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/D03.Spring-Boot-RocketMQ/pom.xml" />
       </list>
     </option>
   </component>
