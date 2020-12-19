@@ -10,8 +10,18 @@
         <option value="$PROJECT_DIR$/03.Spring-Boot-Restful/pom.xml" />
         <option value="$PROJECT_DIR$/04.Spring-Boot-Log/pom.xml" />
         <option value="$PROJECT_DIR$/05.Spring-Boot-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/B03.Spring-Boot-Mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/B04.Spring-Boot-MultiResource/pom.xml" />
+        <option value="$PROJECT_DIR$/B02.Spring-Boot-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/B01.Spring-Boot-JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/A05.Spring-Boot-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/A04.Spring-Boot-Log/pom.xml" />
+        <option value="$PROJECT_DIR$/A03.Spring-Boot-Restful/pom.xml" />
+        <option value="$PROJECT_DIR$/A02.Spring-Boot-Config/pom.xml" />
+        <option value="$PROJECT_DIR$/A01.Spring-Boot-Start/pom.xml" />
+        <option value="$PROJECT_DIR$/C01.Spring-Cloud-Eureka/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK_11.0.8+10" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

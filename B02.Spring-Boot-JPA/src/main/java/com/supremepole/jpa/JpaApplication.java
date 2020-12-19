@@ -1,13 +1,13 @@
-package com.supremepole.hibernate;
+package com.supremepole.jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HibernateApplication {
+public class JpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HibernateApplication.class, args);
+		SpringApplication.run(JpaApplication.class, args);
 	}
 
 }

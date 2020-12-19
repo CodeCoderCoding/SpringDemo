@@ -6,17 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="start" />
         <module name="05.Spring-Boot-Test" />
+        <module name="start" />
         <module name="03.Spring-Boot-Restful" />
+        <module name="multiresource" />
+        <module name="B01.Spring-Boot-JdbcTemplate" />
+        <module name="B03.Spring-Boot-Mybatis" />
+        <module name="B02.Spring-Boot-JPA" />
         <module name="02.Spring-Boot-Config" />
+      </profile>
+      <profile name="Annotation profile for microservice-config-client" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Eureka-Service" />
+        <module name="Eureka-Client" />
+        <module name="Eureka-Server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="02.Spring-Boot-Config" target="1.8" />
       <module name="03.Spring-Boot-Restful" target="1.8" />
       <module name="05.Spring-Boot-Test" target="1.8" />
+      <module name="B01.Spring-Boot-JdbcTemplate" target="1.8" />
+      <module name="B02.Spring-Boot-JPA" target="1.8" />
+      <module name="B03.Spring-Boot-Mybatis" target="1.8" />
+      <module name="E01.Spring-Cloud-Eureka" target="1.8" />
+      <module name="Eureka-Client" target="1.8" />
+      <module name="Eureka-Server" target="1.8" />
+      <module name="Eureka-Service" target="1.8" />
       <module name="Log" target="1.8" />
+      <module name="microservice-config-client" target="1.8" />
+      <module name="multiresource" target="1.8" />
       <module name="restful" target="1.8" />
       <module name="shiro" target="1.8" />
       <module name="Spring-Boot-Start" target="1.8" />
@@ -28,7 +49,11 @@
       <module name="02.Spring-Boot-Config" options="-parameters" />
       <module name="03.Spring-Boot-Restful" options="-parameters" />
       <module name="05.Spring-Boot-Test" options="-parameters" />
+      <module name="B01.Spring-Boot-JdbcTemplate" options="-parameters" />
+      <module name="B02.Spring-Boot-JPA" options="-parameters" />
+      <module name="B03.Spring-Boot-Mybatis" options="-parameters" />
       <module name="Spring-Boot-Start" options="-parameters" />
+      <module name="multiresource" options="-parameters" />
       <module name="start" options="-parameters" />
     </option>
   </component>

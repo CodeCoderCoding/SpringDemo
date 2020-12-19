@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/B01.Spring-Boot-JdbcTemplate/B01.Spring-Boot-JdbcTemplate.iml" filepath="$PROJECT_DIR$/B01.Spring-Boot-JdbcTemplate/B01.Spring-Boot-JdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/B02.Spring-Boot-JPA/B02.Spring-Boot-JPA.iml" filepath="$PROJECT_DIR$/B02.Spring-Boot-JPA/B02.Spring-Boot-JPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/B03.Spring-Boot-Mybatis/B03.Spring-Boot-Mybatis.iml" filepath="$PROJECT_DIR$/B03.Spring-Boot-Mybatis/B03.Spring-Boot-Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/E01.Spring-Cloud-Eureka.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/E01.Spring-Cloud-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Client/Eureka-Client.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Client/Eureka-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Service/Eureka-Service.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Service/Eureka-Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/B04.Spring-Boot-MultiResource/multiresource.iml" filepath="$PROJECT_DIR$/B04.Spring-Boot-MultiResource/multiresource.iml" />
       <module fileurl="file://$PROJECT_DIR$/A04.Spring-Boot-Log/restful.iml" filepath="$PROJECT_DIR$/A04.Spring-Boot-Log/restful.iml" />
