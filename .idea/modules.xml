@@ -15,10 +15,11 @@
       <module fileurl="file://$PROJECT_DIR$/D01.Spring-Boot-Kafka/D01.Spring-Boot-Kafka.iml" filepath="$PROJECT_DIR$/D01.Spring-Boot-Kafka/D01.Spring-Boot-Kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/D02.Spring-Boot-RabbitMQ/D02.Spring-Boot-RabbitMQ.iml" filepath="$PROJECT_DIR$/D02.Spring-Boot-RabbitMQ/D02.Spring-Boot-RabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/D03.Spring-Boot-RocketMQ/D03.Spring-Boot-RocketMQ.iml" filepath="$PROJECT_DIR$/D03.Spring-Boot-RocketMQ/D03.Spring-Boot-RocketMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D04.Spring-Boot-ActiveMQ/D04.Spring-Boot-ActiveMQ.iml" filepath="$PROJECT_DIR$/D04.Spring-Boot-ActiveMQ/D04.Spring-Boot-ActiveMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/E01.Spring-Cloud-Eureka.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/E01.Spring-Cloud-Eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Client/Eureka-Client.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Client/Eureka-Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Server/Eureka-Server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Service/Eureka-Service.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Service/Eureka-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceConsumer/Eureka-ServiceConsumer.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceConsumer/Eureka-ServiceConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceProvider/Eureka-ServiceProvider.iml" filepath="$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceProvider/Eureka-ServiceProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-start.iml" filepath="$PROJECT_DIR$/springboot-start.iml" />
     </modules>

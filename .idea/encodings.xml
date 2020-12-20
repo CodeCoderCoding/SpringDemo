@@ -11,5 +11,8 @@
     <file url="file://$PROJECT_DIR$/B02.Spring-Boot-JPA/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/B03.Spring-Boot-Mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/B04.Spring-Boot-MultiResource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceConsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/E01.Spring-Cloud-Eureka/Eureka-ServiceProvider/src/main/java" charset="UTF-8" />
   </component>
 </project>
