@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.supremepole</groupId>
-	<artifactId>start</artifactId>
+	<artifactId>A01.Spring-Boot-Start</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>start</name>
 	<description>Demo project for Spring Boot</description>

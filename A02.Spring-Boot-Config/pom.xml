@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.supremepole</groupId>
-	<artifactId>config</artifactId>
+	<artifactId>A02.Spring-Boot-Config</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config</name>
 	<description>Demo project for Spring Boot</description>

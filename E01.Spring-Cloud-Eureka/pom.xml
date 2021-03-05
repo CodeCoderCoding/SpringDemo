@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>C01.Spring-Cloud-Eureka</artifactId>
+    <artifactId>E01.Spring-Cloud-Eureka</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Eureka-server</module>
-        <module>Eureka-Client</module>
-        <module>Eureka-Service</module>
+        <module>E01.Eureka-server</module>
+        <module>E01.Eureka-ServiceConsumer</module>
+        <module>E01.Eureka-ServiceProvider</module>
     </modules>
 
     <parent>
