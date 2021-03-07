@@ -1,5 +1,9 @@
 package com.supremepole.restful.model;
 
+/**
+ * 返回基础类
+ * @param <T>
+ */
 public class BaseResponse<T> {
     /**
      * 是否成功
