@@ -26,12 +26,12 @@ Spring相关demo
 - [ ] SpringBoot使用Redis
 - [ ] SpringBoot使用ElasticSearch
 
-## SpringBoot 安全相关
+## F SpringBoot 安全相关
 - [ ] SpringBoot中使用Shiro
 - [ ] SpringBoot中使用Spring Security
 - [ ] Spring Security自定义用户认证
 
-## SpringBoot 整合消息/数据通信
+## G SpringBoot 整合消息/数据通信
 - [ ] SpringBoot整合Kafka
 - [ ] SpringBoot整合RabbitMQ
 - [ ] SpringBoot整合RocketMQ
@@ -39,4 +39,4 @@ Spring相关demo
 - [ ] SpringBoot整合websocket
 - [ ] SpringBoot SocketIO
 
-## SpringCloud系列
+## H SpringCloud系列
